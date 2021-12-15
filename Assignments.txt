@@ -1,0 +1,52 @@
+Write a python program to to find sum of array?
+
+
+
+Algorithms Solution
+1. Create a emtpy List []
+2. We will take the number from user
+3. Type Cast to int
+4. Use for Loop to accept the values
+5. If the value is empty then break the loop
+6. Append the new number to empty List
+
+7. Define a function for repeatative task
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write a python program to calculate distance between two points?
+
+Solution
+1. use only Functions
+2. use only Class
+3. withous any function or class (No Recomended)
+
